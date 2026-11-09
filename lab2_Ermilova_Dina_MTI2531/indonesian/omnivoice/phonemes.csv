@@ -1,0 +1,301 @@
+id,phonemes,phoneme_count
+in_01_01,d u d u ŋ | a m b i l k a n | d a n d a ŋ | d i | d i n d i ŋ | d o ŋ | d u ŋ,33
+in_01_02,dʒ a ŋ a n | tʃ o b a | tʃ o b a | tʃ i u m | tʃ u tʃ u | tʃ u tʃ u k u | k a l aʊ | tʃ u m a | m aʊ | tʃ i u m | tʃ u tʃ u | tʃ u tʃ u k u | tʃ u m a | tʃ u m a,59
+in_01_03,p a r t aɪ | p a r t aɪ | p ə r ə m p u a n | b ə r p ɛ r t ə m u a n | d i | d ɛ k a t | p ə r ə m p a t a n | p r ɛ m b u n,55
+in_01_04,r i k a | t a r i k | t a r i k | r o k | r i n a | d a n | r i n a | t a r i k | t a r i k | r o k | r i k a | r o k | r i k a | r o b ə k | r o b ə k | d a n | r u s a k | d a n | r o k | r i n a | r u s a k | r u s a k | d a n | r o b ə k,98
+in_01_05,s a n t a p a n | k i t a | s ə t i a p | dʒ a m | s ə t ɛ ŋ a h | s a t u | s i a ŋ | s a t u | s o t o | s a p i | s a m a | s ə r a t u s | t u s u k | s a t ə | s a p i | p u l a,76
+in_01_06,s a j a | s ɛ b a l | s a m a | s i t u | s ɛ b a b | s i t u | s u k a | s ɛ ɲ u m | s ɛ ɲ u m | s a m a | s u a m i | s a j a | s ə h i ŋ ɡ a | s u a m i | s a j a | s u k a | s ɛ ɲ u m | s ɛ ɲ u m | s ə n d i r i | s a dʒ a,94
+in_01_07,s ɛ m p a t | s ə m p a t ɲ a | s ɛ m u t | s ɛ m u t | i t u | s a l i ŋ | s ɛ ɲ u m | s ɛ ɲ u m | d a n | s a l a m | s a l a m a n | s a m a | s ɛ m u t | s ɛ m u t | j a ŋ | m aʊ | s ɛ ɲ u m | s ɛ ɲ u m | d a n | s a l a m | s a l a m a n | s a m a | s ɛ m u t | s ɛ m u t | i t u,118
+in_01_08,t i b a | t i b a | s i | b o t a k | b a t u k | b a t u k | d i |  a t a s | b a t u | b a t a,39
+in_01_09,t o k o | t o k o | d i | k o t a | k i t a | t u t u p | k ə t i k a | k i t a | t ɛ t a p | b u k a | t o k o | k i t a,50
+in_01_10,k a k a k t u a | k a k a k | k a k ɛ k k u | k ə n a l | k a k a k t u a | k a k a k | k a k ɛ k m u,45
+in_01_11,k ə l ɛ d aɪ | m a k a n | k ə d ɛ l aɪ | d i | k ɛ d aɪ,23
+in_01_12,u l a r | l a r i | l u r u s,13
+in_01_13,k u k u | k a k i | k a k a k | k a k a k | k u | k a j a k | k u k u | k a k i | k a k ə k | k a k ə k | k u,45
+in_01_14,u l a r | m ə l i ŋ k a r | d i | p a ɡ a r,19
+in_01_15,k u t u k u | b u t u h | t u b u h k u | t a p i | t u b u h k u | t a k | b u t u h | k u t u k u,43
+in_01_16,ɛ ŋ k aʊ |  u l u ŋ | ɡ u l i ŋ | u l a ŋ | u l a s | s u l i ŋ,26
+in_01_17,k u k u | k a k i | k a k ɛ k k u | k a k u,19
+in_01_18,t u k u l | p i k u l | b a k u l | b a k u l | i s i | s a ŋ ɡ u l | d i | p i ŋ ɡ u l,37
+in_01_19,s a j a | s u k a | s a m a | s u a m i | s i t u | s ɛ b a b | s u a m i | s i t u | s u k a | s ɛ ɲ u m | s ɛ ɲ u m | s a m a | s a j a,57
+in_01_20,p ə l o p ɔ r | t u a | p u l a | b a k a l | l a p a r | a p a b i l a | l u p a | b a w a | b u a h | p a l a,47
+in_01_21,k a t a k | t ə r ɡ ə l ɛ t a k | d i | d a l a m | k o t a k,27
+in_01_22,b a ŋ | a n a ŋ | l a ɡ i | ŋ a p aɪ n | b a ŋ | ŋ a r b i | b ə r a ŋ k a t | k ə | ŋ a n dʒ u k | ŋ o m ə l | ŋ o m ə l | ŋ k a l i,55
+in_01_23,k u tʃ i ŋ | k u n i ŋ k u | k ə n tʃ i ŋ | d i | k u n tʃ i | k u n tʃ i k u,32
+in_01_24,k u k u | k a k i | k a k a k k u | k a k u | k ə n a | p a k u,27
+in_01_25,b o l i | b o l a k | b a l i k | b ɛ l i | b o l a | b u l a t,27
+in_02_01,b a | b i | b u | b ɛ | b o,10
+in_02_02,n a | n i | n u | n ɛ | n o,10
+in_02_03,tʃ a | tʃ i | tʃ u | tʃ ɛ | tʃ o,10
+in_02_04,p a | p i | p u | p ɛ | p o,10
+in_02_05,d a | d i | d u | d ɛ | d o,10
+in_02_06,r a | r i | r u | r ɛ | r o,10
+in_02_07,s a | s i | s u | s ɛ | s o,10
+in_02_08,ɡ a | ɡ i | ɡ u | ɡ ɛ | ɡ o,10
+in_02_09,t a | t i | t u | t ɛ | t o,10
+in_02_10,dʒ a | dʒ i | dʒ u | dʒ ɛ | dʒ o,10
+in_02_11,k a | k i | k u | k ə | k o,10
+in_02_12,l a | l i | l u | l ɛ | l o,10
+in_02_13,a m | i m | u m | ɛ m | o m,10
+in_02_14,a h | i h | u h | ɛ h | o h,10
+in_02_15,a t | i t | u t | ɛ t | o t,10
+in_02_16,a k | i k | u k | ɛ k | o k,10
+in_02_17,a r | i r | u r | ɛ r | ɔ r,10
+in_02_18,a s | i s | u s | e s | o s,10
+in_02_19,a p | i p | u p | ɛ p | o p,10
+in_02_20,a l | i l | u l | ɛ l | o l,10
+in_02_21,ŋ a | ŋ i | ŋ u | ŋ ɛ | ŋ o,10
+in_02_22,ɲ a | ɲ i | ɲ u | ɲ ɛ | ɲ o,10
+in_02_23,k r a | k r i | k r u | k r ɛ | k r o,15
+in_02_24,p r a | p r i | p r u | p r ɛ | p r o,15
+in_02_25,t r a | t r i | t r u | t r ɛ | t r o,15
+in_03_01_k01,a p ə l,4
+in_03_01_k02,a p ə l | a p ə l,8
+in_03_01_k04,a p ə l | a p ə l | a p ə l | a p ə l,16
+in_03_01_k08,a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l,32
+in_03_01_k16,a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l,64
+in_03_01_k32,a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l,128
+in_03_01_k64,a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l | a p ə l,256
+in_03_02_k01,s i r s a k,6
+in_03_02_k02,s i r s a k | s i r s a k,12
+in_03_02_k04,s i r s a k | s i r s a k | s i r s a k | s i r s a k,24
+in_03_02_k08,s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k,48
+in_03_02_k16,s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k,96
+in_03_02_k32,s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k,192
+in_03_02_k64,s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k | s i r s a k,384
+in_03_03_k01,m a t a,4
+in_03_03_k02,m a t a | m a t a,8
+in_03_03_k04,m a t a | m a t a | m a t a | m a t a,16
+in_03_03_k08,m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a,32
+in_03_03_k16,m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a,64
+in_03_03_k32,m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a,128
+in_03_03_k64,m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a | m a t a,256
+in_03_04_k01,ɡ a dʒ a h,5
+in_03_04_k02,ɡ a dʒ a h | ɡ a dʒ a h,10
+in_03_04_k04,ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h,20
+in_03_04_k08,ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h,40
+in_03_04_k16,ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h,80
+in_03_04_k32,ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h,160
+in_03_04_k64,ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h | ɡ a dʒ a h,320
+in_03_05_k01,m ɛ dʒ a,4
+in_03_05_k02,m ɛ dʒ a | m ɛ dʒ a,8
+in_03_05_k04,m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a,16
+in_03_05_k08,m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a,32
+in_03_05_k16,m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a,64
+in_03_05_k32,m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a,128
+in_03_05_k64,m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a | m ɛ dʒ a,256
+in_03_06_k01,dʒ a m b u,5
+in_03_06_k02,dʒ a m b u | dʒ a m b u,10
+in_03_06_k04,dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u,20
+in_03_06_k08,dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u,40
+in_03_06_k16,dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u,80
+in_03_06_k32,dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u,160
+in_03_06_k64,dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u | dʒ a m b u,320
+in_03_07_k01,k u d a,4
+in_03_07_k02,k u d a | k u d a,8
+in_03_07_k04,k u d a | k u d a | k u d a | k u d a,16
+in_03_07_k08,k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a,32
+in_03_07_k16,k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a,64
+in_03_07_k32,k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a,128
+in_03_07_k64,k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a | k u d a,256
+in_03_08_k01,k a t a k,5
+in_03_08_k02,k a t a k | k a t a k,10
+in_03_08_k04,k a t a k | k a t a k | k a t a k | k a t a k,20
+in_03_08_k08,k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k,40
+in_03_08_k16,k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k,80
+in_03_08_k32,k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k,160
+in_03_08_k64,k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k | k a t a k,320
+in_03_09_k01,b o l a,4
+in_03_09_k02,b o l a | b o l a,8
+in_03_09_k04,b o l a | b o l a | b o l a | b o l a,16
+in_03_09_k08,b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a,32
+in_03_09_k16,b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a,64
+in_03_09_k32,b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a,128
+in_03_09_k64,b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a | b o l a,256
+in_03_10_k01,b a t u,4
+in_03_10_k02,b a t u | b a t u,8
+in_03_10_k04,b a t u | b a t u | b a t u | b a t u,16
+in_03_10_k08,b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u,32
+in_03_10_k16,b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u,64
+in_03_10_k32,b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u,128
+in_03_10_k64,b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u | b a t u,256
+in_03_11_k01,h i d u ŋ,5
+in_03_11_k02,h i d u ŋ | h i d u ŋ,10
+in_03_11_k04,h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ,20
+in_03_11_k08,h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ,40
+in_03_11_k16,h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ,80
+in_03_11_k32,h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ,160
+in_03_11_k64,h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ | h i d u ŋ,320
+in_03_12_k01,k u k u,4
+in_03_12_k02,k u k u | k u k u,8
+in_03_12_k04,k u k u | k u k u | k u k u | k u k u,16
+in_03_12_k08,k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u,32
+in_03_12_k16,k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u,64
+in_03_12_k32,k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u,128
+in_03_12_k64,k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u | k u k u,256
+in_03_13_k01,p i s aʊ,4
+in_03_13_k02,p i s aʊ | p i s aʊ,8
+in_03_13_k04,p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ,16
+in_03_13_k08,p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ,32
+in_03_13_k16,p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ,64
+in_03_13_k32,p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ,128
+in_03_13_k64,p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ | p i s aʊ,256
+in_03_14_k01,m a ŋ ɡ a,5
+in_03_14_k02,m a ŋ ɡ a | m a ŋ ɡ a,10
+in_03_14_k04,m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a,20
+in_03_14_k08,m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a,40
+in_03_14_k16,m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a,80
+in_03_14_k32,m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a,160
+in_03_14_k64,m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a | m a ŋ ɡ a,320
+in_03_15_k01,k u tʃ i ŋ,5
+in_03_15_k02,k u tʃ i ŋ | k u tʃ i ŋ,10
+in_03_15_k04,k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ,20
+in_03_15_k08,k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ,40
+in_03_15_k16,k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ,80
+in_03_15_k32,k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ,160
+in_03_15_k64,k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ | k u tʃ i ŋ,320
+in_03_16_k01,k a tʃ a,4
+in_03_16_k02,k a tʃ a | k a tʃ a,8
+in_03_16_k04,k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a,16
+in_03_16_k08,k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a,32
+in_03_16_k16,k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a,64
+in_03_16_k32,k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a,128
+in_03_16_k64,k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a | k a tʃ a,256
+in_03_17_k01,dʒ ɛ r u k,5
+in_03_17_k02,dʒ ɛ r u k | dʒ ɛ r u k,10
+in_03_17_k04,dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k,20
+in_03_17_k08,dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k,40
+in_03_17_k16,dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k,80
+in_03_17_k32,dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k,160
+in_03_17_k64,dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k | dʒ ɛ r u k,320
+in_03_18_k01,t o m a t,5
+in_03_18_k02,t o m a t | t o m a t,10
+in_03_18_k04,t o m a t | t o m a t | t o m a t | t o m a t,20
+in_03_18_k08,t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t,40
+in_03_18_k16,t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t,80
+in_03_18_k32,t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t,160
+in_03_18_k64,t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t | t o m a t,320
+in_03_19_k01,t a ŋ a n,5
+in_03_19_k02,t a ŋ a n | t a ŋ a n,10
+in_03_19_k04,t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n,20
+in_03_19_k08,t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n,40
+in_03_19_k16,t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n,80
+in_03_19_k32,t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n,160
+in_03_19_k64,t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n | t a ŋ a n,320
+in_03_20_k01,a j a m,4
+in_03_20_k02,a j a m | a j a m,8
+in_03_20_k04,a j a m | a j a m | a j a m | a j a m,16
+in_03_20_k08,a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m,32
+in_03_20_k16,a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m,64
+in_03_20_k32,a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m,128
+in_03_20_k64,a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m | a j a m,256
+in_03_21_k01,b u k u,4
+in_03_21_k02,b u k u | b u k u,8
+in_03_21_k04,b u k u | b u k u | b u k u | b u k u,16
+in_03_21_k08,b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u,32
+in_03_21_k16,b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u,64
+in_03_21_k32,b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u,128
+in_03_21_k64,b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u | b u k u,256
+in_03_22_k01,k u n tʃ i,5
+in_03_22_k02,k u n tʃ i | k u n tʃ i,10
+in_03_22_k04,k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i,20
+in_03_22_k08,k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i,40
+in_03_22_k16,k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i,80
+in_03_22_k32,k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i,160
+in_03_22_k64,k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i | k u n tʃ i,320
+in_03_23_k01,dʒ a r i,4
+in_03_23_k02,dʒ a r i | dʒ a r i,8
+in_03_23_k04,dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i,16
+in_03_23_k08,dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i,32
+in_03_23_k16,dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i,64
+in_03_23_k32,dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i,128
+in_03_23_k64,dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i | dʒ a r i,256
+in_03_24_k01,d o m b a,5
+in_03_24_k02,d o m b a | d o m b a,10
+in_03_24_k04,d o m b a | d o m b a | d o m b a | d o m b a,20
+in_03_24_k08,d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a,40
+in_03_24_k16,d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a,80
+in_03_24_k32,d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a,160
+in_03_24_k64,d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a | d o m b a,320
+in_03_25_k01,ɡ i ɡ i,4
+in_03_25_k02,ɡ i ɡ i | ɡ i ɡ i,8
+in_03_25_k04,ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i,16
+in_03_25_k08,ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i,32
+in_03_25_k16,ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i,64
+in_03_25_k32,ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i,128
+in_03_25_k64,ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i | ɡ i ɡ i,256
+in_04_01,m ə m p ə r t a ŋ ɡ u ŋ dʒ a w a b k a n ɲ a l a h,25
+in_04_02,m ə ŋ a k t u a l i s a s i k a n,17
+in_04_03,m ə n d ɛ m i l i t ə r i s a s i,17
+in_04_04,m ə n d i s k u a l i f i k a s i k a n,20
+in_04_05,p ə n d i v ə r s i f i k a s i a n,18
+in_04_06,p ə ŋ i n t ə n s i f i k a s i a n,18
+in_04_07,m ə ŋ i n t ə r n a s i o n a l k a n,19
+in_04_08,p ə ŋ i n t ə r n a s i o n a l a n,18
+in_04_09,m ə ŋ i n v ə n t a r i s a s i k a n,19
+in_04_10,m ə ŋ u a l i f i k a s i k a n,16
+in_04_11,m ə l i b ə r a l i s a s i k a n,17
+in_04_12,b ə r s i m a h a r a dʒ a l ɛ l a,17
+in_04_13,m ə n a s i o n a l i s a s i,15
+in_04_14,m ə n a s i o n a l i s a s i k a n,18
+in_04_15,b ə r p ɛ r i k ɛ m a n u s i a a n,18
+in_04_16,m ə r a s i o n a l i s a s i,15
+in_04_17,m ə r ɛ h a b i l i t a s i k a n,17
+in_04_18,m ə r ɛ s o s i a l i s a s i,15
+in_04_19,m ə n s o s i a l i s a s i k a n,17
+in_04_20,p ə r t ɛ l ə k o m u n i k a s i a n,19
+in_04_21,m ə m v i s u a l i s a s i k a n,17
+in_04_22,h ɛ k s a k o s i o i h ɛ k s ə k o n t a h ɛ k s a f o b i a,31
+in_04_23,p ə ŋ h a n tʃ u r l ə b u r a n,16
+in_04_24,p a r a s k a v ə d ɛ k a t r i a f o b i a,22
+in_04_25,m ə ɲ ɛ b a r l u a s k a n,14
+in_05_01,s ə b ɛ l a s,7
+in_05_02,d u a | b ɛ l a s,8
+in_05_03,t u dʒ u h | b ɛ l a s,10
+in_05_04,s ə m b i l a n | b ɛ l a s,13
+in_05_05,d u a | p u l u h | s a t u,12
+in_05_06,d u a | p u l u h | d u a,11
+in_05_07,t i ɡ a | p u l u h | t i ɡ a,13
+in_05_08,ɛ m p a t | p u l u h | ɛ m p a t,15
+in_05_09,ɛ n a m | p u l u h | ɛ n a m,13
+in_05_10,d ə l a p a n | p u l u h | d ə l a p a n,19
+in_05_11,s ə m b i l a n | p u l u h | s ə m b i l a n,21
+in_05_12,s ə r a t u s | s a t u,11
+in_05_13,s ə r a t u s | s ə b ɛ l a s,14
+in_05_14,s ə r a t u s | d u a | p u l u h | s a t u,19
+in_05_15,d u a | r a t u s | d u a | p u l u h | d u a,19
+in_05_16,t i ɡ a | r a t u s | t i ɡ a | p u l u h | t i ɡ a,22
+in_05_17,ɛ m p a t | r a t u s | ɛ m p a t | p u l u h | ɛ m p a t,25
+in_05_18,l i m a | r a t u s | l i m a | p u l u h | l i m a,22
+in_05_19,ɛ n a m | r a t u s | ɛ n a m | p u l u h | ɛ n a m,22
+in_05_20,t u dʒ u h | r a t u s | t u dʒ u h | p u l u h | t u dʒ u h,25
+in_05_21,s ə m b i l a n | r a t u s | s ə m b i l a n | p u l u h | s ə m b i l a n,34
+in_05_22,s ə r i b u | s a t u,10
+in_05_23,s ə r i b u | s ə m b i l a n | r a t u s | ɛ m p a t | p u l u h | l i m a,33
+in_05_24,d u a | r i b u | d u a | p u l u h | ɛ n a m,19
+in_05_25,s ə p u l u h | r i b u | s ə p u l u h,18
+in_06_01,i b u | p ə r tʃ a j a | b a h w a |  ɛ ŋ k aʊ | t a h u,23
+in_06_02,k a n t ɔ r | p a dʒ a k | p ɛ n u h | s ɛ s a k,21
+in_06_03,b u k u |  i t u | s a ŋ a t | t ɛ b a l,17
+in_06_04,m u d a h | m u d a h a n | t u h a n | j a ŋ | m a h a |  ɛ s a | m ə l i n d u ŋ i | k i t a,40
+in_06_05,m a r i l a h | k i t a | b ə r ç u k u r | k ə p a d a | t u h a n | j a ŋ | m a h a | p ə ŋ a s i h,44
+in_06_06,a p a | j a ŋ | k u m i l i k i | b o l ə h | k aʊ a m b i l,26
+in_06_07,k aɪ n | i t u | t ə r l ɛ t a k | d i | d a l a m | l ə m a r i,27
+in_06_08,b ə r m a l a m | s a dʒ a l a h | d i | s i n i,21
+in_06_09,d i | m a n a | s i t i | s ə k a r a ŋ,17
+in_06_10,m ə r ɛ k a |  a d a | d i | r u m a h,16
+in_06_11,i a |  i k u t | t ɛ r dʒ u n | k ə | t ɛ ŋ a h | k a n tʃ a h | p ə r dʒ u a ŋ a n,34
+in_06_12,k ə | m a n a | s a dʒ a |  i a | s ə l a m a |  i n i,21
+in_06_13,k i t a | p ɛ r l u | b ə r p i k i r | s ə p u l u h | t a h u n | k ə | d ɛ p a n,36
+in_06_14,m a r i | k i t a | b ə r a ŋ k a t | k ə | p a s a r,23
+in_06_15,s a j a | p ɛ r ɡ i | k ə | s a n a | s i n i | m ə n tʃ a r i ɲ a,28
+in_06_16,i a | d a t a ŋ | d a r i | s u r a b a j a | k ə m a r i n,26
+in_06_17,s i |  a m i n | l ɛ b i h | t u a | d a r i p a d a | s i |  a h m a d,29
+in_06_18,k a m i | p ə r tʃ a j a | s ə p ə n u h ɲ a | k ə p a d a ɲ a,28
+in_06_19,k ə s a m p i ŋ k a n | s a dʒ a | p ə r s o a l a n | j a ŋ | t i d a k | p ɛ n t i ŋ | i t u,41
+in_06_20,i a | m a s u k | l a l u | k ə l u a r | l a ɡ i,21
+in_06_21,b a w a | k ə m a r i | ɡ a m b a r | i t u,19
+in_06_22,k ə m a r i k a n | b u k u |  i t u,16
+in_06_23,s ə m u a |  o r a ŋ | t ə r k ə m u k a | d i | d ɛ s a |  i t u | h a d i r | d a l a m | k ə n d u r i |  i t u,47
+in_06_24,h a r i m aʊ |  i t u | m a r a h | s ə k a l i | k ə p a d a | s a ŋ | k a n tʃ i l,35
+in_06_25,s u r a t | i t u | d i k i r i m k a n | k ə m b a l i | k ə p a d a | s i | p ə ŋ i r i m,40

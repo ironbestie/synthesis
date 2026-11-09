@@ -1,0 +1,8 @@
+# Colab Python 3.13.16, NVIDIA Tesla T4. Torch wheels from the cu130 index.
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch==2.11.0+cu130
+torchaudio==2.11.0+cu130
+transformers==5.22.0
+omnivoice==0.2.1
+numpy==2.4.6
+soundfile==0.14.0

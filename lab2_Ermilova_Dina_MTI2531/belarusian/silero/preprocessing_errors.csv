@@ -1,0 +1,3 @@
+id,tts_input,audio,duration,elapsed,status,reason,reference_id
+be_05_09,шэсцьдзесят шэсць,,,0.0,tts_error,ValueError: Нет ударения для шэсцьдзесят,
+be_05_19,шэсцьсот шэсцьдзесят шэсць,,,0.0,tts_error,ValueError: Нет ударения для шэсцьдзесят,

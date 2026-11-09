@@ -1,0 +1,20 @@
+{
+  "python": "3.13.16",
+  "gpu": "Tesla T4",
+  "omni": {
+    "torch": "2.11.0+cu130",
+    "torchaudio": "2.11.0+cu130",
+    "transformers": "5.22.0",
+    "numpy": "2.4.6",
+    "soundfile": "0.14.0",
+    "omnivoice": "0.2.1"
+  },
+  "oute": {
+    "torch": "2.11.0+cu130",
+    "torchaudio": "2.11.0+cu130",
+    "transformers": "4.52.3",
+    "numpy": "2.4.6",
+    "soundfile": "0.14.0",
+    "outetts": "0.4.4"
+  }
+}

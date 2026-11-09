@@ -1,0 +1,20 @@
+# Системные файлы Mac/Windows
+.DS_Store
+Thumbs.db
+
+# Python кэш
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Тяжёлые файлы (аудио и веса моделей)
+*.wav
+*.mp3
+*.flac
+*.bin
+*.pt
+*.onnx
+*.safetensors
+models/
+checkpoints/
+
